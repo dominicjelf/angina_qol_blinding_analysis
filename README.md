@@ -1,4 +1,4 @@
-# Blinding and Quality of Life Endpoints in Randomised Trials of Stable Angina Analysis
+# Blinding and Quality of Life Endpoints in Randomised Trials of Stable Angina Study Data and Analysis
 
 This repository contains the dataset and R code used in the meta-epidemiological study examining the association between quality of life (QoL) endpoint use and blinding in randomised trials of therapies for stable angina.
 
